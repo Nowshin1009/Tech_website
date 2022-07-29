@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.slider_img img {
+    width: 100%;
+    height: 28rem;
+}
